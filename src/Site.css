@@ -1,0 +1,52 @@
+#css{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.navbar{
+    width:100%;
+    height: 10vh;
+    background-color: #000;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.tab-project{
+    width: 300%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#ffffff;
+    height: 25px;
+}
+.Home{
+    width: 300%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#ffffff;
+    height: 25px;
+}
+.tab-about{
+    width: 300%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#ffffff;
+    height: 25px;
+}
+.Footer{
+    width:120%;
+    height: 4vh;
+    color: #0f36e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
